@@ -6,9 +6,7 @@ Most days you can [Catch Me Coding](www.nicole-brewer.com/catch-me-coding) or wr
 
 :microphone: I'm host of the podcast ["Long Tails of Science"](https://www.breaker.audio/long-tales-of-science)
 
-:woman_scientist: I'm currently working on a Jupyter-based user interface for statistical software
-
-👯 I’m collaborating with the [Social Cognition of Social Justice lab](https://henneslab.wixsite.com/scsj)
+:woman_scientist: I'm currently working on a Jupyter-based user interface for statistical software in collaboration with the [Social Cognition of Social Justice lab](https://henneslab.wixsite.com/scsj)
 
 :computer: I'm a proud member of the [Research Software Engineering Association](https://us-rse.org/)
 
