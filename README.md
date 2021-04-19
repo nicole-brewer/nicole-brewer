@@ -1,6 +1,6 @@
 ### Hi, my name is Nicole
 
-Most days you can [Catch Me Coding](www.nicole-brewer.com/catch-me-coding) or writing about code.
+Most days you can [Catch Me Coding](https://nicole-brewer.com) or writing about code.
 
 :woman_technologist: I'm co-chair of the [Women in HPC chapter at Purdue University](https://www.rcac.purdue.edu/whpc/)
 
